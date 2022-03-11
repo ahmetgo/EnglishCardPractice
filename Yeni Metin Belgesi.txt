@@ -1,0 +1,1 @@
+ilk sayfada hangi tür kelimelerin geleceğini seç favorilere ekle dendiğinde ul li ye eklesin enn son o listeyi pdf olarak indirebilsin ya da karışık çözebilsin.
